@@ -75,6 +75,13 @@
                                                 </includes>
                                             </fileSet>
                                             <fileSet>
+                                                <directory>src/main/resources</directory>
+                                                <outputDirectory>/resources</outputDirectory>
+                                                <includes>
+                                                    <include>*</include>
+                                                </includes>
+                                            </fileSet>
+                                            <fileSet>
                                                 <directory>target</directory>
                                                 <outputDirectory>/app</outputDirectory>
                                                 <includes>
