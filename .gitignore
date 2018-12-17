@@ -1,0 +1,7 @@
+/target/
+/bin/
+/.apt_generated/
+.idea/
+*.iml
+**/logs/
+.attach**

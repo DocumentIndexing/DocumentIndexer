@@ -1,0 +1,9 @@
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/service/util/JsonUtilTest.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/kafka/KafkaConfigTest.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/elastic/ElasticRepositoryTest.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/elastic/ConfigUtils.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/service/InsertServiceTest.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/service/util/IndexUtilTest.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/service/EnrichmentServiceTest.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/elastic/ElasticConfigTest.java
+/home/guidof/bitbucket/searchIndex/Indexer/IndexServer/src/test/java/com/g4pas/index/kafka/ZookeeperConfigTest.java
