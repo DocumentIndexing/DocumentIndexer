@@ -5,7 +5,7 @@
     <groupId>com.g4pas.index.document.publish</groupId>
     <artifactId>IndexServer</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.5</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -235,6 +235,6 @@
 
 
   <scm>
-    <tag>Indexer-0.0.1</tag>
+    <tag>Indexer-0.0.5</tag>
   </scm>
 </project>
