@@ -61,6 +61,7 @@
                             <build>
                                 <tags>
                                     <tag>${project.version}</tag>
+                                    <tag>latest</tag>
                                 </tags>
                                 <assembly>
                                     <mode>dir</mode>
