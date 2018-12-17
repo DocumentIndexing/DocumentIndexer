@@ -61,7 +61,7 @@
     <scm>
         <connection>scm:git:git://github.com:DocumentIndexing/Indexer.git</connection>
         <developerConnection>scm:git:git@github.com:DocumentIndexing/Indexer.git</developerConnection>
-      <tag>Indexer-0.0.1</tag>
+
   </scm>
 
 
