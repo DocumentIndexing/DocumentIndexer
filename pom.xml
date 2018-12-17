@@ -5,7 +5,7 @@
     <groupId>com.g4pas.index.document.publish</groupId>
     <artifactId>Indexer</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <properties>
         <maven.compiler.source>1.10</maven.compiler.source>
         <maven.compiler.target>1.10</maven.compiler.target>
@@ -62,7 +62,7 @@
         <connection>scm:git:git://github.com:DocumentIndexing/Indexer.git</connection>
         <developerConnection>scm:git:git@github.com:DocumentIndexing/Indexer.git</developerConnection>
 
-    <tag>HEAD</tag>
+    <tag>Indexer-0.0.3</tag>
   </scm>
 
 
