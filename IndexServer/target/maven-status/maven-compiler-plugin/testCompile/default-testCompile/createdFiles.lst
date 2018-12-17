@@ -1,8 +1,0 @@
-com/g4pas/index/elastic/ConfigUtils.class
-com/g4pas/index/kafka/KafkaConfigTest.class
-com/g4pas/index/service/util/IndexUtilTest.class
-com/g4pas/index/service/InsertServiceTest.class
-com/g4pas/index/elastic/ElasticRepositoryTest.class
-com/g4pas/index/kafka/ZookeeperConfigTest.class
-com/g4pas/index/service/EnrichmentServiceTest.class
-com/g4pas/index/elastic/ElasticConfigTest.class

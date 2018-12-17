@@ -59,6 +59,7 @@
             <url>https://repo.spring.io/libs-release</url>
         </pluginRepository>
     </pluginRepositories>
+
     <scm>
         <connection>scm:git:git://github.com:DocumentIndexing/Indexer.git</connection>
         <developerConnection>scm:git:git@github.com:DocumentIndexing/Indexer.git</developerConnection>
