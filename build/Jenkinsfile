@@ -1,7 +1,7 @@
 properties([
                 buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '10')),
                 disableConcurrentBuilds(),
-                parameters([booleanParam(defaultValue: false, description: 'Do you want to create a RELEASE', name: 'Release')],
+                parameters([booleanParam(defaultValue: false, description: 'Do you want to create a RELEASE', name: 'Release')]),
                 pipelineTriggers([
                                     pollSCM('H/2 * * * *'),
                                     [$class: 'PeriodicFolderTrigger', interval: '7d']
