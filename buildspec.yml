@@ -12,3 +12,6 @@ phases:
     commands:
       - echo "Using Maven Build architecture"
       - mvn clean deploy
+cache:
+  paths:
+    - '/root/.m2/**/*'
