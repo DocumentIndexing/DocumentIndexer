@@ -248,7 +248,7 @@
             <url>s3://com.g4pas.tracer.repo/release</url>
         </repository>
         <snapshotRepository>
-            <id>Trace-Snapshot-Nexus</id>
+            <id>Tracer-Snapshot-Nexus</id>
             <name>Tracer Snapshot Nexus</name>
             <url>s3://com.g4pas.tracer.repo/snapshot</url>
         </snapshotRepository>

@@ -19,7 +19,7 @@ node {
     }
    stage ("build") {
       withMaven(options: [artifactsPublisher(disabled: true)]) {
-            sh 'mvn clean deploy'
+            sh 'mvn -X clean deploy'
       }
    }
 
