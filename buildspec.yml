@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "Installing maven"
+      - apt-get update -y
+      - apt-get install -y maven
+    finally :
+      - echo "Completed Installation"
+  build:
+    commands:
+      - echo "Using Maven Build architecture"
+      - mvn clean deploy
