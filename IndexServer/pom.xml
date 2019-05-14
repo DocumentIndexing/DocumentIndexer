@@ -57,7 +57,7 @@
                     <images>
                         <image>
                             <!-- Replace your-project-name -->
-                            <name>guidof/documentindexer-indexer:%l</name>
+                            <name>documentindexer-indexer:%l</name>
                             <build>
                                 <tags>
                                     <tag>${project.version}</tag>
